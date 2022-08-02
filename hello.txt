@@ -1,2 +1,3 @@
-Hello g
-second modi
+Hello git!
+second modified!
+merge!
